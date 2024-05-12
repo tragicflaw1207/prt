@@ -1,0 +1,4 @@
+name: rtp
+version: '1.0.0'
+main: me.ruende.rtp.Rtp
+api-version: '1.20'
